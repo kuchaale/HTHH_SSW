@@ -5,6 +5,7 @@
 
 
 #Modulation of the Northern polar vortex by the Hunga Tonga-Hunga Ha'apai eruption and associated surface response 
+
 **A. Kuchar, Timofei Sukhodolov, Gabriel Chiodo, Andrin Jörimann, Jessica Kult-Herdin,
 Eugene Rozanov, and Harald Rieder**
 
