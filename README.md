@@ -1,5 +1,7 @@
 # HTTT_SSW
 
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.11](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/downloads/release/python-31110/)
 
 
 #Modulation of the Northern polar vortex by the Hunga Tonga-Hunga Ha'apai eruption and associated surface response 
@@ -13,4 +15,10 @@ Model data are available upon request. All datasets already preprocessed can be 
 Notebooks for each individual figure as well as for two data tables are in the [`code/` directory](code), while the figures themselves are in the [`plots/` directory](plots).
 
 ### Figures
-|  #  | Figure   
+|  #  | Figure                                                                                                                                                                                                    | Notebook                                                                              | Dependencies                                                                                                                                                             |
+|:---:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  1 | [Monthly and zonal-mean structure of WV, O3, OH and temperature](plots/?.pdf)                                                                              | [?.ipynb](code/?.ipynb)                       |                                                                                                                         |
+|  2 | [Weighted zonally-averaged temperature average over low and high latitude and NAM](plots/NAM_lagA_composite_HIonly_FDR.pdf)                                                      | [?.ipynb](code/?.ipynb)                 |                                                                                                                           |
+|  3 | [Sea level pressure abd surface air temperature monthly anomaly in April 2023](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|          
+
+### Figures in Appendix
