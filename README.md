@@ -5,7 +5,8 @@
 
 
 #Modulation of the Northern polar vortex by the Hunga Tonga-Hunga Ha'apai eruption and associated surface response 
-**A. Kuchar, P. Sacha, R. Eichinger, Ch. Jacobi, P. Pisoft, and H. Rieder**
+**A. Kuchar, Timofei Sukhodolov, Gabriel Chiodo, Andrin Jörimann, Jessica Kult-Herdin,
+Eugene Rozanov, and Harald Rieder**
 
 Submitted to [Atmospheric Chemistry and Physics]([https://egusphere.copernicus.org/preprints/2022/egusphere-2022-474/](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1909/)).
 
