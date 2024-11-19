@@ -9,7 +9,7 @@
 **A. Kuchar, Timofei Sukhodolov, Gabriel Chiodo, Andrin Jörimann, Jessica Kult-Herdin,
 Eugene Rozanov, and Harald Rieder**
 
-Submitted to [Atmospheric Chemistry and Physics]([https://egusphere.copernicus.org/preprints/2022/egusphere-2022-474/](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1909/)).
+Submitted to [Atmospheric Chemistry and Physics]([https://egusphere.copernicus.org/preprints/2022/egusphere-2022-474/](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1909/).
 
 Code used to process and visualise the model and other data outputs in order to reproduce figures in the manuscript.
 Model data are available upon request. All datasets already preprocessed can be found [here](?).
