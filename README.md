@@ -24,3 +24,17 @@ Notebooks for each individual figure as well as for two data tables are in the [
 |  3 | [Sea level pressure abd surface air temperature monthly anomaly in April 2023](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|          
 
 ### Figures in Appendix
+|  #  | Figure                                                                                                                                                                                                    | Notebook                                                                              | Dependencies                                                                                                                                                             |
+|:---:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  A1 | [Integrated stratospheric water vapor](plots/?.pdf)                                                                              | [?.ipynb](code/?.ipynb)                       |                                                                                                                         |
+|  A2 | [Seasonal zonal-mean structure of SAD and WV in SOCOLv4](plots/NAM_lagA_composite_HIonly_FDR.pdf)                                                      | [?.ipynb](code/?.ipynb)                 |                                                                                                                           |
+|  A3 | [Seasonal zonal-mean structure of SAD and WV in GloSSAC and SWOOSH](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|  
+|  A4 | [Monthly global-mean evolution of temperature, WV and ozone](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|  
+|  A5 | [Seasonal zonal-mean structure of HNO3](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|  
+|  A6 | [Seasonal zonal-mean structure of HOBr](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|  
+|  A7 | [Daily anomalies of the Eliassen-Palm flux](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|  
+|  A8 | [Monthly geopotential height anomalies (maps)](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|  
+|  A9 | [Daily zonal-mean zonal wind at 10 hPa and 60°N](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|  
+
+
+
