@@ -26,15 +26,15 @@ Notebooks for each individual figure as well as for two data tables are in the [
 ### Figures in Appendix
 |  #  | Figure                                                                                                                                                                                                    | Notebook                                                                              | Dependencies                                                                                                                                                             |
 |:---:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  A1 | [Integrated stratospheric water vapor](plots/?.pdf)                                                                              | [?.ipynb](code/?.ipynb)                       |                                                                                                                         |
-|  A2 | [Seasonal zonal-mean structure of SAD and WV in SOCOLv4](plots/NAM_lagA_composite_HIonly_FDR.pdf)                                                      | [?.ipynb](code/?.ipynb)                 |                                                                                                                           |
-|  A3 | [Seasonal zonal-mean structure of SAD and WV in GloSSAC and SWOOSH](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|  
-|  A4 | [Monthly global-mean evolution of temperature, WV and ozone](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|  
-|  A5 | [Seasonal zonal-mean structure of HNO3](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|  
-|  A6 | [Seasonal zonal-mean structure of HOBr](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|  
+|  A1 | [Integrated stratospheric water vapor](plots/?.pdf)                                                                              | [M2SCREAM_SOCOL_paper_figs-A1A.ipynb](code/M2SCREAM_SOCOL_paper_figs-A1A.ipynb), [HT_socol_processing-htt-A1B_A2_A5_A6.ipynb](code/HT_socol_processing-htt-A1B_A2_A5_A6.ipynb)                       |                                                                                                                         |
+|  A2 | [Seasonal zonal-mean structure of SAD and WV in SOCOLv4](plots/NAM_lagA_composite_HIonly_FDR.pdf)                                                      | [HT_socol_processing-htt-A1B_A2_A5_A6.ipynb](code/HT_socol_processing-htt-A1B_A2_A5_A6.ipynb)                       |                                                                                                                           |
+|  A3 | [Seasonal zonal-mean structure of SAD and WV in GloSSAC and SWOOSH](plots/?.pdf)                | [SWOOSH_water_vapour_FigA3.ipynb](code/SWOOSH_water_vapour_FigA3.ipynb)|  
+|  A4 | [Monthly global-mean evolution of temperature, WV and ozone](plots/?.pdf)                | [Randel-like_fig_TE-H2O-O3_FigsA4_A8.ipynb](code/Randel-like_fig_TE-H2O-O3_FigsA4_A8.ipynb)|  
+|  A5 | [Seasonal zonal-mean structure of HNO3](plots/?.pdf)                | [HT_socol_processing-htt-A1B_A2_A5_A6.ipynb](code/HT_socol_processing-htt-A1B_A2_A5_A6.ipynb)        |  
+|  A6 | [Seasonal zonal-mean structure of HOBr](plots/?.pdf)                | [HT_socol_processing-htt-A1B_A2_A5_A6.ipynb](code/HT_socol_processing-htt-A1B_A2_A5_A6.ipynb)        |  
 |  A7 | [Daily anomalies of the Eliassen-Palm flux](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|  
-|  A8 | [Monthly geopotential height anomalies (maps)](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|  
-|  A9 | [Daily zonal-mean zonal wind at 10 hPa and 60°N](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|  
+|  A8 | [Monthly geopotential height anomalies (maps)](plots/?.pdf)                | [Randel-like_fig_TE-H2O-O3_FigsA4_A8.ipynb](code/Randel-like_fig_TE-H2O-O3_FigsA4_A8.ipynb)|  
+|  A9 | [Daily zonal-mean zonal wind at 10 hPa and 60°N](plots/?.pdf)                | [SSWs_2024_FIG-A9.ipynb](code/SSWs_2024_FIG-A9.ipynb)|  
 
 
 
