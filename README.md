@@ -13,7 +13,7 @@ Eugene Rozanov, and Harald Rieder**
 Submitted to [Atmospheric Chemistry and Physics](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1909/).
 
 Code used to process and visualise the model and other data outputs in order to reproduce figures in the manuscript.
-Model data are available upon request. All datasets already preprocessed can be found [here](?).
+Model data are available upon request. All datasets already preprocessed can be found [here](https://data.mendeley.com/preview/hb3whw3nfr?a=6614a963-645d-4599-b9b7-189866c1b9a9).
 
 Notebooks for each individual figure as well as for two data tables are in the [`code/` directory](code), while the figures themselves are in the [`plots/` directory](plots).
 
