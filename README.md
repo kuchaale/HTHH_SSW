@@ -7,7 +7,7 @@
 
 # Modulation of the Northern polar vortex by the Hunga Tonga-Hunga Ha'apai eruption and associated surface response 
 
-**A. Kuchar, Timofei Sukhodolov, Gabriel Chiodo, Andrin Jörimann, Jessica Kult-Herdin,
+**[A. Kuchar](https://github.com/kuchaale/), Timofei Sukhodolov, Gabriel Chiodo, Andrin Jörimann, Jessica Kult-Herdin,
 Eugene Rozanov, and Harald Rieder**
 
 Submitted to [Atmospheric Chemistry and Physics](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1909/).
@@ -20,9 +20,9 @@ Notebooks for each individual figure as well as for two data tables are in the [
 ### Figures
 |  #  | Figure                                                                                                                                                                                                    | Notebook                                                                              | Dependencies                                                                                                                                                             |
 |:---:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  1 | [Monthly and zonal-mean structure of WV, O3, OH and temperature](plots/?.pdf)                                                                              | [?.ipynb](code/?.ipynb)                       |                                                                                                                         |
-|  2 | [Weighted zonally-averaged temperature average over low and high latitude and NAM](plots/NAM_lagA_composite_HIonly_FDR.pdf)                                                      | [?.ipynb](code/?.ipynb)                 |                                                                                                                           |
-|  3 | [Sea level pressure abd surface air temperature monthly anomaly in April 2023](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|          
+|  1 | [Monthly and zonal-mean structure of WV, O3, OH and temperature](plots/?.pdf)                                                                              | [HT_paper_fig1+3.ipynb](code/HT_paper_fig1+3.ipynb)                       |                                                                                                                         |
+|  2 | [Weighted zonally-averaged temperature average over low and high latitude and NAM](plots/NAM_lagA_composite_HIonly_FDR.pdf)                                                      | [HT_paper_fig1.ipynb](code/HT_paper_fig2.ipynb)                 |                                                                                                                           |
+|  3 | [Sea level pressure abd surface air temperature monthly anomaly in April 2023](plots/?.pdf)                | [HT_paper_fig1+3.ipynb](code/HT_paper_fig1+3.ipynb)|          
 
 ### Figures in Appendix
 |  #  | Figure                                                                                                                                                                                                    | Notebook                                                                              | Dependencies                                                                                                                                                             |
@@ -33,7 +33,9 @@ Notebooks for each individual figure as well as for two data tables are in the [
 |  A4 | [Monthly global-mean evolution of temperature, WV and ozone](plots/?.pdf)                | [Randel-like_fig_TE-H2O-O3_FigsA4_A8.ipynb](code/Randel-like_fig_TE-H2O-O3_FigsA4_A8.ipynb)|  
 |  A5 | [Seasonal zonal-mean structure of HNO3](plots/?.pdf)                | [HT_socol_processing-htt-A1B_A2_A5_A6.ipynb](code/HT_socol_processing-htt-A1B_A2_A5_A6.ipynb)        |  
 |  A6 | [Seasonal zonal-mean structure of HOBr](plots/?.pdf)                | [HT_socol_processing-htt-A1B_A2_A5_A6.ipynb](code/HT_socol_processing-htt-A1B_A2_A5_A6.ipynb)        |  
-|  A7 | [Daily anomalies of the Eliassen-Palm flux](plots/?.pdf)                | [?.ipynb](code/?.ipynb)|  
+|  A7 | [Daily anomalies of the Eliassen-Palm flux](plots/?.pdf)                | [
+HT_paper_EPF-A7.ipynb](code/
+HT_paper_EPF-A7.ipynb)|  
 |  A8 | [Monthly geopotential height anomalies (maps)](plots/?.pdf)                | [Randel-like_fig_TE-H2O-O3_FigsA4_A8.ipynb](code/Randel-like_fig_TE-H2O-O3_FigsA4_A8.ipynb)|  
 |  A9 | [Daily zonal-mean zonal wind at 10 hPa and 60°N](plots/?.pdf)                | [SSWs_2024_FIG-A9.ipynb](code/SSWs_2024_FIG-A9.ipynb)|  
 
