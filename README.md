@@ -10,7 +10,7 @@
 **[A. Kuchar](https://github.com/kuchaale/), Timofei Sukhodolov, Gabriel Chiodo, Andrin Jörimann, Jessica Kult-Herdin,
 Eugene Rozanov, and Harald Rieder**
 
-Submitted to [Atmospheric Chemistry and Physics](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1909/).
+Published as [Atmospheric Chemistry and Physics Letter]([https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1909/](https://acp.copernicus.org/articles/25/3623/2025/)).
 
 Code used to process and visualise the model and other data outputs in order to reproduce figures in the manuscript.
 Model data are available upon request. All datasets already preprocessed can be found [here](https://data.mendeley.com/preview/hb3whw3nfr?a=6614a963-645d-4599-b9b7-189866c1b9a9).
